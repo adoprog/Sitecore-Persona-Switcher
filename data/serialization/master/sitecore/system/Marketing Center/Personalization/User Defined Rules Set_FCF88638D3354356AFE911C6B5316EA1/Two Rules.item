@@ -1,0 +1,65 @@
+----item----
+version: 1
+id: {3FC9B1B0-A60F-4CA2-9AE6-D421889A47F8}
+database: master
+path: /sitecore/system/Marketing Center/Personalization/User Defined Rules Set/Two Rules
+parent: {FCF88638-D335-4356-AFE9-11C6B5316EA1}
+name: Two Rules
+master: {00000000-0000-0000-0000-000000000000}
+template: {94250AE8-F1FB-46E8-9D45-F871D1E4B465}
+templatekey: User Defined Conditional Rendering Rules
+
+----field----
+field: {6E8573A7-A1A6-4A78-8093-033A57DCF4EA}
+name: User Defined Rule Set
+key: user defined rule set
+content-length: 77
+
+{F3FAB58D-F229-4198-A50C-F446027465F0}|{541604EB-249A-4B70-9187-F45563AD5E18}
+----version----
+language: en
+version: 1
+revision: 8555828b-79ab-4df2-8227-4776c36a50b5
+
+----field----
+field: {52807595-0F8F-4B20-8D2A-CB71D28C6103}
+name: __Owner
+key: __owner
+content-length: 14
+
+sitecore\admin
+----field----
+field: {25BED78C-4957-4165-998A-CA1B52F67497}
+name: __Created
+key: __created
+content-length: 15
+
+20110512T134800
+----field----
+field: {5DD74568-4D4B-44C1-B513-0AF5F4CDA34F}
+name: __Created by
+key: __created by
+content-length: 14
+
+sitecore\admin
+----field----
+field: {8CDC337E-A112-42FB-BBB4-4143751E123F}
+name: __Revision
+key: __revision
+content-length: 36
+
+8555828b-79ab-4df2-8227-4776c36a50b5
+----field----
+field: {D9CF14B1-FA16-4BA6-9288-E8A174D4D522}
+name: __Updated
+key: __updated
+content-length: 34
+
+20110512T135023:634408050239513278
+----field----
+field: {BADD9CF9-53E0-4D0C-BCC0-2D784C282F6A}
+name: __Updated by
+key: __updated by
+content-length: 14
+
+sitecore\admin
